@@ -7,11 +7,19 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+Have you ever been somewhere and you can not find your favorite recipes
+from Mayat's Healthy & Easy Recipes.  There's no need to wait for you to get to the book, access the recipes
+wherever you have Internet access, all you have to do is logon.
+
 ### Features
-Include Features here
+-a logon Page
+-Search by recipes name or ingredients
+-submit a comment about a recipea
+
+
 ### Technologies
-Include Technologies here
+Java/python/database
+not sure what the rest is called
 
 ### What I'll Have to Learn
-Include what you will need to learn here
+Probably everything.
